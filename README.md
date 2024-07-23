@@ -6,7 +6,7 @@
 
 - 🤝 Моё резюме на [HH.ru](https://kazan.hh.ru/resume/b30a0495ff06c215bf0039ed1f326152794d73)
 - 💻 Мои учебные проекты можно посмотреть [здесь.](https://github.com/BBuullaatt)
-- 👨‍💻 Наработки по UX/UI дизайну доступны на [Dribbble.]([https://dribbble.com/BulatMukhametzyanov/drafts](https://dribbble.com/BulatMukhametzyanov))
+- 👨‍💻 Наработки по UX/UI дизайну доступны на [Dribbble.](https://dribbble.com/BulatMukhametzyanov)
 - Профиль на [Codewars.](https://www.codewars.com/users/Bulat9S)
 
 
